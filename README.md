@@ -1,2 +1,2 @@
 # oxemz-resolusi
-Resolusi untuk menyimpan rencana OXEMZ kedepannya
+Repository untuk menyimpan rencana OXEMZ kedepannya
