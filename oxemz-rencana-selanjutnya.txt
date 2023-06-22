@@ -1,2 +1,5 @@
 RENCANA OXEMZ SELANJUTNYA
 -Pemahaman detail html css dan javascript
+*Dimulai dari html
+*Kemudian css
+*Lalu javascript
